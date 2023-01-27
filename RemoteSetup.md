@@ -4,7 +4,7 @@ There are three main options for working on the labs and assignment remotely or 
 
 1.  Use the [remote desktop service](https://computing.help.inf.ed.ac.uk/remote-desktop)
 2.  Use the [informatics VPN](https://computing.help.inf.ed.ac.uk/openvpn)
-3.  Run codes on your own PC or Mac (not recommended as different problems may occur).
+3.  Run the code directly on your own PC or Mac (not recommended as different problems may occur).
 
 ## Remote desktop
 
