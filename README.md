@@ -75,7 +75,7 @@ git stash pop
 ```
 
 which will update your local version to the one on Github and then merge the changes you made. 
-You can view all the changes we made and the new files we uploaded to the repository on your machine now. 
+You can view all the changes we made and the new files we uploaded to the repository on your machine now.  If you continue to receive warning or error messages at this stage, please seek the advice of a lab demonstrator.
 
 **NOTE: If you are not familiar with Git is safest to create a backup copy of all your files before doing this.**
 
