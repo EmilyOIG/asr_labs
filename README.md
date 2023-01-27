@@ -81,4 +81,6 @@ You can view all the changes we made and the new files we uploaded to the reposi
 
 ****
 
-For remote working please refer to [Remote Working](RemoteSetup.md)
+### Working on a computer in the lab in-person (the recommended way of working)
+
+Although it's not recommended until you have become familiar with the working environment for the labs, it is possible to access them for a remote working.  Please refer to [Remote Working](RemoteSetup.md)
