@@ -44,10 +44,11 @@ jupyter notebook
 After running the last command, the default browser will be opened automatically and you can view all the files with Jupyter notebook. 
 We will update the repository regularly (at least every week), and you will need to `git pull` the repository to update it with the new exercises. 
 By doing so, you can also obtain the solutions, amendments of files and bug fixes. 
+
 If you are not familiar with Git, the safest thing to do is to make a copy of the file you would like to edit (e.g. to make a copy of `asr_lab1.ipynb`, you can run `cp asr_lab1.ipynb asr_lab1_copied.ipynb`) and only make changes and run the code in the copied files (`asr_lab1_copied.ipynb` in the example). 
 To get updates, all you need to do is to run `git pull` in the `asr_labs` directory (of course, you will have to `cd` to this directory first).
 
-**NOTE: You are recommended to run `git pull` every time you `cd asr_labs` to obtain the latest files**
+You are recommended to run `git pull` every time you `cd asr_labs` to obtain the latest files.
 
 **NOTE: When you run `git pull`, in certain circumstances you may get an error as below**
 
