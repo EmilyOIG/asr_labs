@@ -6,7 +6,7 @@ The Informatics computing labs use DICE, a Linux environment If you are not fami
 
 The labs all use Python within a Jupyter notebook that you can edit in your web browser.  If you are experienced with Python programming and prefer to edit code directly in your own development tool, this is fine too.
 
-Each lab week has its own Jupyter notebook, with the exception of Labs 3 and 4 which share a notebook.  The are contained within the files `asr_labX.ipynb`
+Each lab week has its own Jupyter notebook, with the exception of Labs 3 and 4 which share a notebook.  They are contained within files named `asr_labX.ipynb`
 
 ****
 
@@ -44,7 +44,7 @@ jupyter notebook
 ```
 
 After running the last command, the default browser will be opened automatically and you can view and open all the files with Jupyter notebook. 
-At first, the only the notebook for Lab 1 will be available -- in later weeks, you will need to run the command `git pull` in the `asr_labs` directory to update your copy with latest lab exercises from the repository.  By doing this, you will also obtain the solutions, and any files amendments or bug fixes. 
+At first, the only the notebook for Lab 1 will be available -- in later weeks, you will need to run the command `git pull` in the `asr_labs` directory to update your working copy with the latest lab exercises from the repository.  This will also allow you to obtain the solutions, and any file amendments or bug fixes. 
 
 If you are not familiar with Git, the safest thing to do is to make a copy of the file you would like to edit (e.g. to make a copy of `asr_lab1.ipynb`, you can run `cp asr_lab1.ipynb asr_lab1_copied.ipynb`) and only make changes and run the code in the copied files (`asr_lab1_copied.ipynb` in the example). 
 To get updates, all you need to do is to run `git pull` in the `asr_labs` directory (of course, you will have to `cd` to this directory first).
