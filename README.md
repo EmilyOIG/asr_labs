@@ -82,6 +82,16 @@ You can view all the changes we made and the new files we uploaded to the reposi
 
 ****
 
+### Working directly in Python
+
+If you are an experienced Python developer and prefer to work directly in Python instead of in the notebook, this is fine.  To convert the notebook to pure Python code, use
+
+```
+jupyter nbconvert --to python asr_labX.ipynb
+```
+
+replacing the final argument is the name of the notebook you wish to convert.
+
 ### Working remotely
 
 Although it's not recommended until you have become familiar with the working environment for the labs, it is possible to access them for a remote working.  Please refer to [Remote Working](RemoteSetup.md)
