@@ -90,7 +90,7 @@ If you are an experienced Python developer and prefer to work directly in Python
 jupyter nbconvert --to python asr_labX.ipynb
 ```
 
-replacing the final argument is the name of the notebook you wish to convert.
+replacing the final argument with the name of the notebook you wish to convert.
 
 ### Working remotely
 
