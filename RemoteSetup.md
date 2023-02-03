@@ -11,8 +11,8 @@ There are three main options for working on the labs and assignment remotely or 
 1.  Set up the [remote desktop service](http://computing.help.inf.ed.ac.uk/remote-desktop)
 2.  Connect to a remote desktop
 3.  Open a terminal on the remote desktop
-4.  Run `ssh s1234567.lab.inf.ed.ac.uk` (replacing the student ID with your own). Please try `ssh student.compute.inf.ed.ac.uk` instead, if the former does not work for you.
-5.  Run the [commands for setting up the environment](#commands-for-setting-up-the-environment)
+4.  Run `ssh s1234567.lab.inf.ed.ac.uk` (replacing the student ID with your own). Please try `ssh student.compute.inf.ed.ac.uk` or `ssh student.ssh.inf.ed.ac.uk` instead, if the former does not work for you.
+5.  Run the [commands for setting up the environment](README.md#commands-for-setting-up-the-python-environment)
 
 After the above is finished, every time you log in, you only need to run the following commands.
 
@@ -32,7 +32,7 @@ If the token is not working, `jupyter notebook password` lets you set a password
 3.  Open a terminal
 4.  Run `ssh s1234567@s1234567.lab.inf.ed.uk` (please try `ssh s1234567@student.compute.inf.ed.ac.uk` if the former does not work for you).
 5.  Enter your DICE password
-6.  Run the [commands for setting up the environment](#commands-for-setting-up-the-environment)
+6.  Run the [commands for setting up the environment](README.md#commands-for-setting-up-the-python-environment)
 
 From now on, every time you log in, you only need to run the following commands
 
@@ -53,7 +53,7 @@ Please make sure of this before you do the following.
 1.  Install [anaconda](https://www.anaconda.com/)
 2.  Open a terminal
 3.  Install [openfst](https://www.openfst.org/twiki/bin/view/FST/WebHome) and [graphviz](https://graphviz.org/) by `conda install -c conda-forge openfst`and `conda install graphviz`
-4.  Run the [commands for setting up the environment](#commands-for-setting-up-the-environment) but omit `source /opt/conda/etc/profile.d/conda.sh`
+4.  Run the [commands for setting up the environment](README.md#commands-for-setting-up-the-python-environment) but omit `source /opt/conda/etc/profile.d/conda.sh`
 
 After setting up the environment, we may run
 ```shell
