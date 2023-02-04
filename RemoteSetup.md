@@ -32,7 +32,7 @@ If the token is not working, `jupyter notebook password` lets you set a password
 3.  Open a terminal
 4.  Run `ssh s1234567@s1234567.lab.inf.ed.uk` (please try `ssh s1234567@student.compute.inf.ed.ac.uk` or `ssh student.ssh.inf.ed.ac.uk` if the former does not work for you).
 5.  Enter your DICE password
-6.  Run `ssh student.login`
+6.  Run `ssh student.compute`
 7.  Run the [commands for setting up the environment](README.md#commands-for-setting-up-the-python-environment)
 
 From now on, every time you log in, you only need to run the following commands
